@@ -52,6 +52,10 @@ Lerobodog是一款低成本开源复合机器人，兼容主流的lerobot开源�
 
 如有疑问或建议，请通过 issue 反馈或联系项目维护者。
 
+个人开发者
+[czluck](https://gitee.com/czluck)
+[00make](https://00make.github.io/)  
+
 ---
 
 > Lerobodog 致力于打造开放、可扩展的机器人平台，欢迎更多开发者加入！
